@@ -1,0 +1,12 @@
+.text-field.error{
+    -fx-border-color: red;
+}
+.radio-button.error{
+    -fx-text-fill: red;
+}
+.date-picker.error{
+    -fx-background-color: red;
+}
+.check-box.error{
+    -fx-text-fill: red;
+}
